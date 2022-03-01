@@ -1,0 +1,5 @@
+{
+  "iot": "true",
+  "serverid" "uit",
+  "processinitalizer": "https://saicorporation.github.io/init.server.process"
+}
