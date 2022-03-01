@@ -9,5 +9,5 @@
 <a href="https://scratch.mit.edu/projects/652015518/embed">Get your key here</a>
 <p>3. Get your url and change the Access_Key input's value to the key you got from the last page.</p>
 <p>4. Load the url with js.belt program as below:</p>
-<code>https://saipanneerselvam.github.io/API/Add/cookiesaver.js</code><p>
-<code>?Access_Key=YOUR_KEY</code></p>
+<code>https://saipanneerselvam.github.io/API/Add/the_filename_here</code><p>
+<code>?Access_Key=YOUR Key Goes Here</code></p>
